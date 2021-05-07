@@ -2,7 +2,7 @@
 
 Projekt zrealizowany w ramach przedmiotu Bazy danych na 4 semestrze studiów.
 
-## Użyte narzedzia i języki
+## Użyte narzędzia i języki programowania
 
 * SQL
 * Oracle Database
