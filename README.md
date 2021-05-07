@@ -6,6 +6,6 @@ Projekt zrealizowany w ramach przedmiotu Bazy danych na 4 semestrze studiów.
 
 * SQL
 * Oracle Database
-* SQL Developer
-* SQL Developer Data Modeler
+* Oracle SQL Developer
+* Oracle SQL Developer Data Modeler
 
